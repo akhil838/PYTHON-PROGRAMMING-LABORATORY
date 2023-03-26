@@ -5,7 +5,7 @@
 |1.|i) Use a web browser to go to the Python website http://python.org. This page contains information about Python and links to Python-related pages, and it gives you the ability to search the Python documentation.||
 ||ii) Start the Python interpreter and type help() to start the online help utility.||
 |2.| Start a Python interpreter and use it as a Calculator.||
-|3.| i) Write a program to calculate compound interest when principal, rate and number of periods are given.| code |
+|3.| i) Write a program to calculate compound interest when principal, rate and number of periods are given.| [code](compound_interest.py) |
 ||ii) Given coordinates (x1, y1), (x2, y2) find the distance between two points| [code](distance.py) |
 |4.| Read name, address, email and phone number of a person through keyboard and print the details.| code |
 
