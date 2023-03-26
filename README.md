@@ -14,7 +14,7 @@
 |1.| Print the below triangle using for loop.<br/> 5<br/> 4 4<br/> 3 3 3<br/> 2 2 2 2<br/> 1 1 1 1 1| [code](pattern.py) |
 |2.| Write a program to check whether the given input is digit or lowercase character or uppercase character or a special character (use 'if-else-if' ladder)| [code](input.py) |
 |3.| Python Program to Print the Fibonacci sequence using while loop| [code](fibonacci.py) |
-|4.| Python program to print all prime numbers in a given interval (use break)| code |
+|4.| Python program to print all prime numbers in a given interval (use break)| [code](prime.py) |
 
 |S.No| WEEK - 3 ||
 |---|-------------------------------------------------------------------|--------|
