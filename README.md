@@ -6,7 +6,7 @@
 ||ii) Start the Python interpreter and type help() to start the online help utility.||
 |2.| Start a Python interpreter and use it as a Calculator.||
 |3.| i) Write a program to calculate compound interest when principal, rate and number of periods are given.| code |
-||ii) Given coordinates (x1, y1), (x2, y2) find the distance between two points| code |
+||ii) Given coordinates (x1, y1), (x2, y2) find the distance between two points| [code](distance.py) |
 |4.| Read name, address, email and phone number of a person through keyboard and print the details.| code |
 
 |S.No| WEEK - 2||
